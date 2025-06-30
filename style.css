@@ -78,6 +78,7 @@
     padding-bottom: 50px;
 }
 
+.akun
 
 h2 span:before{
     content: '';
@@ -149,4 +150,5 @@ h2 span:before{
     color: white;
     padding: 4px;
     margin: 50px auto 0px;
+    text-align: right;
 }
