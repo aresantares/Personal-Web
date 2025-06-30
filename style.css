@@ -78,7 +78,16 @@
     padding-bottom: 50px;
 }
 
-.akun
+.akun a img {
+  width: 30px;
+  height: 30px;
+  margin: 0 5px;
+  transition: transform 0.3s ease;
+}
+
+.akun a img:hover {
+  transform: scale(1.2);
+}
 
 h2 span:before{
     content: '';
