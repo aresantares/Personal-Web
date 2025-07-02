@@ -142,18 +142,20 @@ h2 span:before{
     margin-top: 800px;
 }
 
+
 .box-kontak img{
     margin-top: 50px;
 }
 
 .box-kontak {
+    text-align: center;
     color: black;
     margin-top: 800px;
     margin-bottom: 200px;
 }
 
 .kontak {
-    display: inline-block;
+    display: inline;
 }
 
 .footer {
